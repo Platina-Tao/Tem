@@ -8,3 +8,5 @@ elif TemStr[-1] in ['C', 'c']:
     print("转换后的温度为{：2f}F".format(F))
 else:
     print("格式输入错误")
+
+# 这是一条注释
